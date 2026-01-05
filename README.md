@@ -21,8 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepsandilya01&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
-
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepsandilya01&show_icons=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=deepsandilya01&icon=5&color=1)](https://visitcount.itsvg.in)
 
