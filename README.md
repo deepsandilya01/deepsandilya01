@@ -4,7 +4,6 @@
 <br>🌱 I’m currently learning backend development and artificial intelligence.<br><br>👨‍💻 All of my projects are available at https://deepsandilya01.github.io/portfolio<br><br>📫 How to reach me deepsandilya23@gmail.com<br><br>⚡ Fun fact I like experimenting with AI tools to improve my projects.
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepsandilya_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepsandilya01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deepsandilya01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepsandilya23@gmail.com) 
 
