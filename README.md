@@ -1,28 +1,125 @@
-<h1 align="center">Hi 👋, I'm Deep Sandilya.</h1>
-<h3 align="center">CSE (AI & ML) | Full Stack & AI Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-<br>🌱 I’m currently learning backend development and artificial intelligence.<br><br>📫 How to reach me deepsandilya23@gmail.com<br><br>⚡ Fun fact I like experimenting with AI tools to improve my projects.
+<div align="center">
 
+<img src="./assets/header.svg" width="100%" alt="Deep Sandilya | Full-Stack MERN Developer"/>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepsandilya_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepsandilya01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deepsandilya01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepsandilya23@gmail.com) 
+<img src="https://komarev.com/ghpvc/?username=deepsandilya01&color=00FF41&style=for-the-badge&label=SYSTEM+ACCESSES&labelColor=000000" alt="profile views"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=000000&color=00FF41" alt="status online"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepsandilya01&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepsandilya01&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsandilya01&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deepsandilya01&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+<img src="./assets/s_whoami.svg" width="800" alt="whoami"/>
+<br/>
+<img src="./assets/terminal.svg" width="800" alt="terminal intro"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepsandilya01&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+<br/>
 
-----
-[![](https://visitcount.itsvg.in/api?id=deepsandilya01&icon=5&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="./assets/s_achievements.svg" width="800" alt="achievements"/>
+</div>
+
+```diff
++ [WINNER]     Sheryians Cohort Hackathon 2026  | Team Haunted Hacker
++ [RUNNER-UP]  BGI Hackathon 2026 (Vision 2047 | Viksit Bharat)
+                -> among 600+ teams and 2,800+ participants nationwide
++ [CERTIFIED]  Ultimate Web Development Course 2025 | Udemy (22 hrs)
+```
+
+<br/>
+
+<div align="center">
+<img src="./assets/s_skills.svg" width="800" alt="skills"/>
+<br/>
+<img src="./assets/ticker.svg" width="800" alt="skills ticker"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,java,cpp,html,css,react,redux,tailwind,vite,threejs,nodejs,express&theme=dark" alt="frontend and backend icons"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=socketio,mongodb,redis,docker,githubactions,git,github,linux,vercel,postman,jest,figma&theme=dark" alt="tools icons"/>
+</div>
+
+```bash
+root@deep:~# cat security_stack.txt
+
+[AUTH]        JWT | OAuth 2.0 | bcrypt | HTTP-only Cookies | RBAC
+[HARDENING]   Helmet | CORS | Rate Limiting
+[VALIDATION]  Zod | MongoDB Sanitization | XSS Protection
+[AI / GENAI]  OpenAI API | RAG | Pinecone | Prompt Engineering | AI Chatbot Integration
+```
+
+<br/>
+
+<div align="center">
+<img src="./assets/s_projects.svg" width="800" alt="projects"/>
+<br/>
+<a href="https://ecelllncte.in"><img src="./assets/card_ecell.svg" width="800" alt="E-Cell LNCTE project"/></a>
+<br/>
+<a href="https://quicklive.tech"><img src="./assets/card_quicklive.svg" width="800" alt="QuickLive project"/></a>
+<br/>
+
+<a href="https://github.com/deepsandilya01/Deployment_Panel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepsandilya01&repo=Deployment_Panel&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" alt="Deployment Panel"/>
+</a>
+<a href="https://github.com/deepsandilya01/EPAM_Tasks_LNCT_PHOTON">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepsandilya01&repo=EPAM_Tasks_LNCT_PHOTON&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" alt="EPAM Tasks LNCT Photon"/>
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/s_experience.svg" width="800" alt="experience"/>
+</div>
+
+```text
+[Jul 2026 - Present]  President, E-Cell LNCTE
+  -> Leading vision and strategy for entrepreneurship, innovation and startup culture on campus
+  -> Directing cross-functional teams (events, finance, tech) and representing E-Cell externally
+
+[Nov 2025 - Jul 2026] Treasurer (FinOps), E-Cell LNCTE
+  -> Managed budgeting, expense tracking and ticket revenue collection
+  -> Monitored digital payments and helped oversee digital platform development
+```
+
+<br/>
+
+<div align="center">
+<img src="./assets/s_stats.svg" width="800" alt="github stats"/>
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepsandilya01&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsandilya01&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=deepsandilya01&hide_border=false&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41&border=00FF41" alt="Streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsandilya01&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41" alt="Contribution graph" width="95%"/>
+
+<!-- Snake animation: needs .github/workflows/snake.yml to run once (see workflow file) -->
+<img src="https://raw.githubusercontent.com/deepsandilya01/deepsandilya01/output/snake-dark.svg" alt="Contribution snake" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepsandilya01&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/s_contact.svg" width="800" alt="contact"/>
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:deepsandilya23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/deepsandilya01)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/deepsandilya01)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/deepsandilya01)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/deepsandilya_01)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
