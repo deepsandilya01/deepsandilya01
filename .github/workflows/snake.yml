@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile SVGs
 
 on:
   schedule:
@@ -15,6 +15,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph and trophies
+        env:
+          # Optional: add a classic PAT as repo secret GH_STATS_TOKEN (scopes: read:user, repo)
+          # to also count private contributions. Falls back to the default token.
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+        run: |
+          mkdir -p dist
+          python3 scripts/gen_stats.py dist
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,7 +35,7 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#00FF41&color_dots=#0d1117,#003b00,#006b1b,#00a82d,#00ff41
 
-      - name: Push snake to output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
